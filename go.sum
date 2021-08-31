@@ -1,0 +1,6 @@
+github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
+github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
+github.com/talkkonnect/go-i2c v0.0.0-20190316095740-e326afb7fdb1 h1:fC+EirjlVNx/1UjcX46aUolKm1lkBluZj5RvR1J68yk=
+github.com/talkkonnect/go-i2c v0.0.0-20190316095740-e326afb7fdb1/go.mod h1:6OAIGFvCa/a/PwfmcctAw2N5T+XHy2qesz7LiZvYcgE=
+github.com/talkkonnect/go-logger v0.0.0-20190316101244-635f8e12dd6c h1:kbjUEvovC9JxkO3MQCRHZ2oAP/yg+ggmUe+CjwdUqAs=
+github.com/talkkonnect/go-logger v0.0.0-20190316101244-635f8e12dd6c/go.mod h1:RgJ9bxHte2cnbimoMDr7NNLOxYWiBgYAnf67OzucsMw=
